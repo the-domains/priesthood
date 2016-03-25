@@ -1,0 +1,28 @@
+name: Priesthood
+favicon: null
+layout_spectrum: 0.03552349656820297
+typography_spectrum: 0.5859260475263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.18778962106443942
+  lightness: 0.7382837957702577
+  saturation: 0.2625953112728894
+  rhythmicContrast: 0.6737836101092398
+purpose: []
