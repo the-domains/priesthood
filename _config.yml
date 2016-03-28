@@ -1,28 +1,40 @@
-name: Priesthood
 favicon: null
-layout_spectrum: 0.03552349656820297
-typography_spectrum: 0.5859260475263
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Priesthood
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.18778962106443942
-  lightness: 0.7382837957702577
-  saturation: 0.2625953112728894
-  rhythmicContrast: 0.6737836101092398
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.07250267
+  brandStrength: 0.9242749
+  lightness: 0.1025778
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#EF8B01'
+    - '#B2B2B2'
+    - '#FFCC00'
+  rhythmicContrast: 0.09183671
+typography_spectrum: 0.2153598
+layout_spectrum: 0.9350161
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
