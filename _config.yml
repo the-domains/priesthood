@@ -1,41 +1,41 @@
-name: Priesthood
-favicon: null
-layout_spectrum: 0.02345
-typography_spectrum: 0.2153598
+title: .
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: .
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.5
+  brandStrength: 0.03061223
+  lightness: 0.1025778
   brandColors:
     - '#ffffff'
     - '#010101'
     - '#ababab'
     - '#383838'
     - '#6e6e6e'
-  brandStrength: 0.75
-  lightness: 0.1025778
-  saturation: 0.5
   rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Priesthood
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2153598
+layout_spectrum: 0.9897959
