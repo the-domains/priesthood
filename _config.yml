@@ -14,14 +14,14 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.5
-  brandStrength: 0.3141783
+  brandStrength: 0
   lightness: 0.1025778
   brandColors:
-    - '#020E28'
-    - '#FBF9F3'
-    - '#421630'
-    - '#7787A4'
-    - '#1F2F4C'
+    - '#202020'
+    - '#E2E2E2'
+    - '#9B9DA3'
+    - '#007AFF'
+    - '#4CD964'
   rhythmicContrast: 0.25
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Priesthood
+favicon: null
 opengraph:
   image: null
   type: null
