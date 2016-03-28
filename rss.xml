@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[.]]></title>
-        <description><![CDATA[.]]></description>
+        <title><![CDATA[Priesthood]]></title>
+        <description><![CDATA[Priesthood]]></description>
         <link>https://thegrid.ai/priesthood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 05:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 05:34:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/priesthood/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Priesthood welcomes you.</p>]]></description>
             <link>https://thegrid.ai/priesthood/31f7b3d7-da71-4d61-b5e3-f2125b2c51d0/index.html</link>
             <guid isPermaLink="false">31f7b3d7-da71-4d61-b5e3-f2125b2c51d0</guid>
-            <pubDate>Mon, 28 Mar 2016 05:14:55 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2016 05:33:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
