@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: .
+title: null
 cta:
   domain: null
   bucket: null
