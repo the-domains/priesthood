@@ -7,21 +7,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-29T02:14:11.764Z'
-dateModified: '2016-03-29T02:14:00.506Z'
+datePublished: '2016-03-29T02:15:52.466Z'
+dateModified: '2016-03-29T02:15:50.635Z'
 author: []
 title: Honor thy that came before......
+sourcePath: _posts/2016-03-29-honor-thy-that-came-before.md
+published: true
 authors: []
 publisher:
   name: google.com
   domain: www.google.com
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-honor-thy-that-came-before.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Honor thy that came before......
 ![](http://032c.com/wp-content/uploads/2014/01/tumblr_mo6zoeRyyz1sv6u3do1_500.png)
+
+Honor those that came before......
