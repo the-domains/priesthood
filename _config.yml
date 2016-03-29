@@ -1,6 +1,6 @@
 name: Priesthood
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.69527
 typography_spectrum: 0.2153598
 collections:
   - index:
@@ -37,5 +37,5 @@ color:
   brandStrength: 1
   lightness: 0.5625
   saturation: 0.4375
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
